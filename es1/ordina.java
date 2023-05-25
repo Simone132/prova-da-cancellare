@@ -6,6 +6,7 @@ public class ordina
     
         public static void main(String[] args)
          {
+            int i= 0 ;
            ArrayList< String> list = new ArrayList< String>();
            list.add("apple ");
            list.add("banana");
